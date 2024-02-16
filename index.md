@@ -1,5 +1,5 @@
 ---
-title: Colton's Lab Notebook
+title: Brenda's Lab Notebook
 ---
 
 ## Notes
