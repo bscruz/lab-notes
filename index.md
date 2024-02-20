@@ -9,6 +9,9 @@ title: Brenda's Lab Notebook
 [notes-template](docs/notes-template)
 
 
+[CreatingAWebsiite](docs/CreatingAWebsiite)
+
+
 [creatingawebsite](docs/creatingawebsite)
 
 
