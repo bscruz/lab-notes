@@ -12,6 +12,3 @@ title: Brenda's Lab Notebook
 [CreatingAWebsiite](docs/CreatingAWebsiite)
 
 
-[creatingawebsite](docs/creatingawebsite)
-
-
