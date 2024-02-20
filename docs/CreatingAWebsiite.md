@@ -27,12 +27,12 @@ Outset content...
 
 ## VERY helpful link 
 
--[] https://quarto.org/docs/authoring/markdown-basics.html
+- https://quarto.org/docs/authoring/markdown-basics.html
  
--[] https://quarto.org/docs/authoring/article-layout.html
+- https://quarto.org/docs/authoring/article-layout.html
 
--[] https://silviacanelon.com/blog/2023-09-29-hello-quarto/
+- https://silviacanelon.com/blog/2023-09-29-hello-quarto/
 
--[] https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+- https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
 
--[] https://quarto.org/docs/output-formats/html-basics.html
+- https://quarto.org/docs/output-formats/html-basics.html
