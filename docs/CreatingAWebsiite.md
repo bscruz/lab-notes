@@ -1,4 +1,3 @@
-
 ---
 title: Creating a Website
 ---
